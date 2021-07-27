@@ -31,7 +31,6 @@ class PlantsController < ApplicationController
         head :no_content
   end
 
-
   private
 
   def plant_params
